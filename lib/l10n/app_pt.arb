@@ -1,0 +1,13 @@
+{
+  "home_title": "Página inicial de demonstração do Flutter",
+  "increment_action": "Incrementar",
+  "increment_message": "Você apertou o botão {times} vezes",
+  "@increment_message": {
+    "placeholders": {
+      "times": {
+        "type": "String",
+        "example": "123"
+      }
+    }
+  }
+}

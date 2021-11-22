@@ -1,0 +1,13 @@
+{
+  "home_title": "Flutter Demo Home Page",
+  "increment_action": "Increment",
+  "increment_message": "You have pushed the button this many times: {times}",
+  "@increment_message": {
+    "placeholders": {
+      "times": {
+        "type": "String",
+        "example": "123"
+      }
+    }
+  }
+}
