@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              texts.increment_message(_counter.toString()),
+              texts.increment_message(_counter),
               style: Theme.of(context).textTheme.headline4,
             ),
           ],

@@ -5,7 +5,7 @@
   "@increment_message": {
     "placeholders": {
       "times": {
-        "type": "String",
+        "type": "int",
         "example": "123"
       }
     }
